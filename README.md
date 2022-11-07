@@ -1,3 +1,2 @@
-# IBM_Curso
-Curso IBM Coursera
-Hola
+# applied-data-science-capstone
+Miguel Baidal Marco
